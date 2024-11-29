@@ -9,7 +9,7 @@ import play from "./play.png";
 
 import android from "./tech/android.svg";
 import kotlin from "./tech/kotlin.svg";
-import androidStudio from "./tech/androidStudio.svg";
+import androidStudio from "./tech/androidstudio.svg";
 import ktor from "./tech/ktor.svg";
 import firebase from "./tech/firebase.svg";
 import materialUi from "./tech/materialui.svg";
