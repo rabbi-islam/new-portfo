@@ -13,7 +13,7 @@ import androidStudio from "./tech/androidstudio.svg";
 import ktor from "./tech/ktor.svg";
 import firebase from "./tech/firebase.svg";
 import materialUi from "./tech/materialui.svg";
-import jetpackCompose from "./tech/jetpackCompose.svg";
+import jetpackCompose from "./tech/jetpackcompose.svg";
 import xml from "./tech/xml.svg";
 import java from "./tech/java.svg";
 import mysql from "./tech/mysql.svg";
