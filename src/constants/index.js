@@ -20,11 +20,7 @@ import {
 	tecognize,
 	sansmo,
 	shopper,
-	mediaid,
-	titan,
-	admin,
-	coffee,
-	eCom,
+	image_vista,
 } from "../assets";
 
 export const navLinks = [
@@ -248,8 +244,30 @@ const projects = [
 			},
 		],
 		image: shopper,
-		source_code_link: "https://github.com/Sharif-Minhaz/Titan-Settlers",
-		live_link: "https://titan-settlers.vercel.app/",
+		source_code_link: "https://github.com/rabbi-islam/Shopify_Multi_Module_Ecommerce",
+		live_link: "",
+	},
+	{
+		name: "Image Vista",
+		description:
+			"This is an image gallery android app built with Kotlin and Jetpack Compose, featuring image API, category, zoom and filtering etc.",
+		tags: [
+			{
+				name: "jetpack compose",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "kotlin",
+				color: "pink-text-gradient",
+			},
+			{
+				name: "retrofit",
+				color: "blue-text-gradient",
+			},
+		],
+		image: image_vista,
+		source_code_link: "https://github.com/rabbi-islam/Image_Vista",
+		live_link: "",
 	},
 
 ];

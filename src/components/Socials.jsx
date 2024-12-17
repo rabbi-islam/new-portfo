@@ -24,7 +24,7 @@ export default function Socials() {
 						</Tilt>
 					))}
 				</div>
-				<a href="/SHARIF_MD._MINHAZ.pdf" download>
+				<a href="/Md Rabbi Islam(Resume).pdf" download>
 					<button className="active:shadow-none inline-flex gap-4 items-center py-3 px-8 bg-tertiary rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary">
 						<img
 							src="/download.png"

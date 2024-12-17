@@ -25,13 +25,9 @@ import express from "./tech/express.png";
 import sansmo from "./company/sansmo.png";
 import tecognize from "./company/tecognize.png";
 
+//project image
 import shopper from "./shopper.png";
-
-import titan from "./titan.png";
-import mediaid from "./mediaid.png";
-import admin from "./admin.png";
-import coffee from "./coffee.png";
-import eCom from "./e-com.png";
+import image_vista from "./image_vista.png";
 
 export {
 	backend,
@@ -59,9 +55,5 @@ export {
 	tecognize,
 	sansmo,
 	shopper,
-	mediaid,
-	titan,
-	admin,
-	coffee,
-	eCom,
+	image_vista,
 };
